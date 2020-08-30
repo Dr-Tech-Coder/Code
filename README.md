@@ -1,10 +1,7 @@
 # Code
 #### All the information, tutorials of our code
-<br>
 
 ## Base structure
-<br>
-
 All the languages will have the below tutorials as free:
 
 - Setting it up on the PC 
@@ -14,15 +11,11 @@ All the languages will have the below tutorials as free:
 - Functions and Methods
 - If and else, and loops
 - Basic syntax of a class (no OOP)
-<br>
-<br>
 
 ## Repo information
 
 #### All the files should have the below copyright information
 <br>
-<br>
-
 
 ```
 MIT License
