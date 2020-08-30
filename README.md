@@ -7,7 +7,7 @@ All the languages will have the below tutorials as free:
 - Setting it up on the PC 
 - Basic syntax
 - How-to run the code
-- Data types
+- Data types and operations (+ - * / %)
 - Functions and Methods
 - If and else, and loops
 - Basic syntax of a class (no OOP)
