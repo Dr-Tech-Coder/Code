@@ -24,6 +24,7 @@ int main() {
     // endl = end line (which is the char '\n' to shift to next line)
     // '<<' = to join the out (cout) stream
     std::cout << "Hello C++ !" << std::endl;
+    // every statement needs to end with ';' like a fullstop in english
 
     return 0;
 }
