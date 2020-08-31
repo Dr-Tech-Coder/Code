@@ -8,6 +8,7 @@ All the languages will have the below tutorials as free:
 - Basic syntax
 - How-to run the code
 - Data types and operations (+ - * / %)
+- Getting input from user
 - Functions and Methods
 - If and else, and loops
 - Basic syntax of a class (no OOP)
